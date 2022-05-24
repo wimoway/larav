@@ -1,0 +1,16 @@
+body {
+  background-image: url(/img/logo2.jpg?c1eacb60c40f7a41eb0965a6d37c7086);
+}
+
+footer {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.p-2 {
+  padding: 0.5rem !important;
+}
+
+.text-dark {
+  color: #343a40 !important;
+}
